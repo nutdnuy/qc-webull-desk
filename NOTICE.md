@@ -17,6 +17,10 @@ product. It connects to Webull only through the user's own Webull MCP connection
 - Fonts are loaded from Google Fonts under the SIL Open Font License:
   Newsreader, Noto Serif Thai, IBM Plex Sans Thai Looped, IBM Plex Mono.
 
+## Names and brand assets
+
+The code and text are under the MIT licence in `LICENSE`. The QuantCorner name and brand assets, and third-party fonts loaded by the reports, are not covered by this grant. "Webull" is a trademark of its owner and is used here only to say which service the plugin connects to.
+
 ## Referral link
 
 The plugin contains one referral link, set in `partner.json`. It is shown only
