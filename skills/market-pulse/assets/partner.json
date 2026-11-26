@@ -1,0 +1,12 @@
+{
+  "partner_name": "QuantCorner",
+  "desk_name": "QuantCorner Desk for Webull",
+  "referral_url": "https://www.webull.co.th/k/QuantCorner",
+  "agentic_url": "https://www.webull.co.th/agentic",
+  "claude_connector_url": "https://claude.ai/directory/connectors/webull",
+  "disclosure_th": "ลิงก์นี้เป็นลิงก์แนะนำของ QuantCorner หากเปิดบัญชีผ่านลิงก์นี้ QuantCorner อาจได้รับผลตอบแทนจากการแนะนำ โดยคุณไม่เสียค่าใช้จ่ายเพิ่ม",
+  "disclosure_en": "This is QuantCorner's referral link. If you open an account through it, QuantCorner may receive a referral benefit, at no extra cost to you.",
+  "footer_th": "ยังไม่มีบัญชี Webull เปิดบัญชีผ่านลิงก์แนะนำของ QuantCorner ได้",
+  "footer_en": "No Webull account yet? You can open one through QuantCorner's referral link.",
+  "show_in_report_footer": true
+}

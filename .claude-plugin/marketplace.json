@@ -1,0 +1,14 @@
+{
+  "name": "quantcorner",
+  "description": "Plugins by QuantCorner for individual investors.",
+  "owner": {
+    "name": "QuantCorner"
+  },
+  "plugins": [
+    {
+      "name": "qc-webull-desk",
+      "source": "./",
+      "description": "Research workflows for US stocks and ETFs on your own Webull connection. Independent plugin by QuantCorner."
+    }
+  ]
+}

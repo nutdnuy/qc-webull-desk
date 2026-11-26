@@ -1,0 +1,26 @@
+{
+  "name": "qc-webull-desk",
+  "version": "0.1.0",
+  "description": "QuantCorner Desk for Webull: twelve research workflows for individual investors in US stocks and ETFs, built on your own Webull connection (Webull MCP). Get to know a stock, check a quarter, estimate fair value, weigh a position, compare ETFs, check a dividend, review your portfolio, read the morning and the market, map sector rotation, test what happened after an event, and plan monthly investing. Every figure is dated and sourced, and each workflow ends in a one-page report. Thai or English. Type /start to begin. Independent plugin by QuantCorner, not a Webull product. Research for your own decisions, not investment advice.",
+  "author": {
+    "name": "QuantCorner",
+    "url": "https://www.facebook.com/quantcornerthailand"
+  },
+  "license": "MIT",
+  "keywords": [
+    "webull",
+    "mcp",
+    "investment research",
+    "us stocks",
+    "etf",
+    "portfolio",
+    "earnings",
+    "dcf",
+    "dividends",
+    "sector rotation",
+    "event study",
+    "dca",
+    "thailand",
+    "retail investors"
+  ]
+}
